@@ -33,12 +33,14 @@ const styles = StyleSheet.create({
     fontSize: 20,
     textAlign: "center",
     margin: 10,
-    color: "#FFFFFF"
+    color: "#000000"
   },
   mainText: {
     flex: 1,
     fontSize: 16,
     textAlign: "center",
-    color: "#FFFFFF"
+    color: "#000000"
   },
 });
+
+export default Forecast;
